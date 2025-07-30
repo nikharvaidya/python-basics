@@ -7,4 +7,3 @@ def cheque_odd_even(number):
 
 number = int(input("Enter a number: "))
 cheque_odd_even(number)
-
