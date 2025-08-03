@@ -30,7 +30,6 @@ A Python program that:
 2.   Calculates the sum of all integers in this range.
 3.   Displays the final sum.
 
-
  <br> Author NIKHAR VAIDYA
  
  
